@@ -1,0 +1,11 @@
+#container{
+	position:absolute;                       
+    left: 50%;
+    top:50%;
+	text-align:center;
+}
+
+body{
+	font-family:"Helvetica",sans-serif;
+
+}
